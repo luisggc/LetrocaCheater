@@ -16,6 +16,10 @@ Esse script gera todas as combinações de palavras em português para uma combi
 pip install unidecode pyautogui keyboard
 ```
 
+## Usos:
+
+Pode ser usado em jogos relacionado a adivinhação de palavras embaralhadas como letroca.
+
 ## Exemplo:
 
 - Digitamos "arrco"
