@@ -5,11 +5,16 @@ Esse script gera todas as combinações de palavras em português para uma combi
 ## Passos:
 
 1. Clonar ou fazer download do código
-2. Caso não tenha, instalar o python
-3. Pelo terminal/cmd acessar a pasta e executar o arquivo index.py como administrador (sudo python index.py)
-4. Digitar as letras a serem combinadas
-5. Ir para um editor de texto e pressionar "ENTER"
+2. Pelo terminal/cmd acessar a pasta e executar o arquivo index.py como administrador (sudo python index.py)
+3. Digitar as letras a serem combinadas
+4. Ir para um editor de texto e pressionar "ENTER"
 
+## Dependências:
+
+É necessário ter o python instalado e as seguintes bibliotecas: unidecode, pyautogui e keyboard
+```
+pip install unidecode pyautogui keyboard
+```
 
 ## Exemplo:
 
